@@ -5,8 +5,6 @@ print("R represents Rock")
 print("P represents Paper")
 print("S represents Scissors")
 
-player_wins = 0
-computer_wins = 0
 
 possible_choices = ["R", "P", "S"]
 
