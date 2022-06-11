@@ -34,7 +34,7 @@ while True:
 
     else:
         print("Computer wins!")
-        break
+    break    
     
 
 
